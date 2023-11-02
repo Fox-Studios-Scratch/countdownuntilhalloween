@@ -23,7 +23,7 @@ You can customize this program to fit your needs, such as changing the format of
 
 # Contributions:
 
-If you have any suggestions for how to improve this program, please feel free to contribute to the project. You can find the source code on GitHub at [LINK TO GITHUB REPO].
+If you have any suggestions for how to improve this program, please feel free to contribute to the project.
 
 # License:
 
